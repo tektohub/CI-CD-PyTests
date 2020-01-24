@@ -1,0 +1,10 @@
+akli;0;minutes;5;secondes;
+a;0;minutes;6;secondes;
+akli;0;minutes;8;secondes;
+akli;0;minutes;10;secondes;
+qsd;0;minutes;24;secondes;
+akli;0;minutes;6;secondes;
+Akli;0;minutes;7;secondes;
+Akli;0;minutes;6;secondes;
+be;0;minutes;5;secondes;
+akli;0;minutes;5;secondes;

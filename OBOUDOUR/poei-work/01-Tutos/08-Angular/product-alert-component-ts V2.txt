@@ -1,0 +1,9 @@
+
+
+
+>> class: 
+export class ProductAlertsComponent {
+  @Input() product;
+  @Output() notify = new EventEmitter();
+}
+

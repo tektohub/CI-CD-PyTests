@@ -1,0 +1,8 @@
+Nom du candidat questions_
+-2 Ecrire un code qui nous permet de savoir si un entier est pair ou non
+Le candidat n'a pas répondu
+-1 Quelle fonction permet d'affichier à l'écran une phrase?
+Le candidat n'a pas répondu
+-3 Ecrire un code qui nous permet d'écrire une liste d'entiers incrémentés de deux
+Le candidat n'a pas répondu
+Vous avez mis 2 minutes 7 secondes

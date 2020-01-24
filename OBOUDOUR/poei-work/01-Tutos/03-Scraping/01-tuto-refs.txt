@@ -1,0 +1,15 @@
+
+
+http://quotes.toscrape.com/
+
+view-source:http://quotes.toscrape.com/
+
+
+git :
+
+https://github.com/scrapy-plugins/scrapy-splash/issues/113
+
+
+https://sqliteonline.com/
+
+

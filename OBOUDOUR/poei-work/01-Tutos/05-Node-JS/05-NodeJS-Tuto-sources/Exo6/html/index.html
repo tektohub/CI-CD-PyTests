@@ -1,0 +1,65 @@
+<div class="floatLeft">
+        <img class="taille300 panier"src="panier.jpg"/>
+    </div>
+    <form method="POST" action="#">
+        <div class="floatLeft">
+            <div class="orange">
+                <img class="taille100 floatLeft" src="oranges.png"/>
+                <ul class="floatLeft taille200">
+                    {listeOrange}
+                </ul>
+                <div class="floatLeft">
+                    <div>
+                        <label for="poidsOrange">Poids total</label>
+                        <input type="number" id="poidsOrange" name="poidsOrange" />
+                    </div>
+                    <div>
+                        <label for="prixOrange">Prix total</label>
+                        <input type="number" id="prixOrange" name="prixOrange" />
+                    </div>
+                </div>
+                <div class="floatLeft orangeResultat"> {orangesResultat}</div>
+            </div>
+            <div class="clearBoth"></div>
+            <div class="clementine">
+                <img class="taille100 floatLeft" src="clementines.jpg"/>
+                <ul class="floatLeft taille200">
+                    {listeClementine}
+                </ul>
+                <div class="floatLeft">
+                    <div>
+                        <label for="poidsClementine">Poids total</label>
+                        <input type="number" id="poidsClementine" name="poidsClementine" />
+                    </div>
+                    <div>
+                        <label for="prixClementine">Prix total</label>
+                        <input type="number" id="prixClementine" name="prixClementine" />
+                    </div>
+                </div>
+                <div class="floatLeft clementineResultat">{clementinesResultat}</div>
+            </div>
+            <div class="clearBoth"></div>
+            <div class="fraise">
+                <img class="taille100 floatLeft" src="fraises.jpg"/>
+                <ul class="floatLeft taille200">
+                    {listeFraises}
+                </ul>
+                <div class="floatLeft">
+                    <div>
+                        <label for="poidsFraise">Poids total</label>
+                        <input type="number" id="poidsFraise" name="poidsFraise" />
+                    </div>
+                    <div>
+                        <label for="prixFraise">Prix total</label>
+                        <input type="number" id="prixFraise" name="prixFraise" />
+                    </div>
+                    
+                </div>
+                <div class="floatLeft fraiseResultat">{fraisesResultat}</div>
+            </div>
+            <input type="submit" value="Valider">
+        </form>
+    </div>
+    <div class="clearBoth"></div>
+    <div class="fin">{finResultat}</div>
+    <script src="jsPanier.js"></script>

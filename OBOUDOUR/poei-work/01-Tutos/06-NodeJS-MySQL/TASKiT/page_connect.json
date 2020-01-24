@@ -1,0 +1,10 @@
+"questionnaire" : {
+    
+    "nom" : "entrez votre nom",
+    "prenom" : "entrez votre prénom",
+    "birthday" : "entrez votre date de naissance:",
+    "niveau" : "entrez votre niveau d'études:",
+    "adresse" : "entrez votre adresse:"
+    
+}
+

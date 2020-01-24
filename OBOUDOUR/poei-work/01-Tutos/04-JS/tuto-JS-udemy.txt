@@ -1,0 +1,24 @@
+
+JS
+
+https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math
+
+https://www.udemy.com/course/cours-javascript/learn/lecture/6249828#questions
+
+tuto :
+
+https://fr.tuto.com/javascript/
+
+
+
+exos:
+
+var nom = prompt ("quel est votre nom? :");
+
+alert(nom); 
+
+
+console.log ("Bonjour " + nom)
+
+
+

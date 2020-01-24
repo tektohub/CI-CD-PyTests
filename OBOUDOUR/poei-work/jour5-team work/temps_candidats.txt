@@ -1,0 +1,7 @@
+"jerome",0,3.0
+"ouarda",0,9.0
+"Allal",0,14.0
+"jerome1",0,5.0
+"jerome2",0,3.0
+"jerome6",0,3.0
+"jerome",0,2.0

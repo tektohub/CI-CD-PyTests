@@ -1,0 +1,9 @@
+
+requêtes pour tester : 
+
+
+CREATE TABLE people (
+	first_name text NOT NULL,
+	last_name text NOT NULL
+);
+

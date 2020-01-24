@@ -1,0 +1,25 @@
+C:\data
+
+C:\data\mysqlsampledatabase.sql
+
+source c:\data\mysqlsampledatabase.sql
+
+source c:\data\mysqlsampledatabase.sql; 
+
+
+\source c:\data\mysqlsampledatabase.sql
+
+
+source c:\data\mysqlsampledatabase.sql; 
+
+source c:\\data\\mysqlsampledatabase.sql; 
+
+source 'c:\data\mysqlsampledatabase.sql'; 
+
+
+
+\source c:/data/mysqlsampledatabase.sql;  OK 
+
+
+\source c:\data\tests.sql  OK 
+

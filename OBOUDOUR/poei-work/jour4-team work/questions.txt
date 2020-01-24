@@ -1,0 +1,4 @@
+-1 Quelle fonction permet d'affichier à l'écran une phrase?
+-2 Ecrire un code qui nous permet de savoir si un entier est pair ou non
+-3 Ecrire un code qui nous permet d'écrire une liste d'entiers incrémentés de deux
+-4 Ecrire une fonction qui affiche le plus petit entier d'une liste

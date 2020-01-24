@@ -1,0 +1,6 @@
+
+connect to db :
+in cmd line : 
+
+sqlite3 c:\sqlite\db\chinook.db
+

@@ -1,0 +1,40 @@
+
+-- commandes à exécuter à partir de ce fichier: commands.txt
+-- pour le faire à partir du command-line :
+
+--sqlite> .mode column
+--sqlite> .header on
+--sqlite> .read c:/sqlite/commands.txt
+-- > see: https://www.sqlitetutorial.net/sqlite-commands/
+
+
+SELECT albumid, title
+FROM albums
+ORDER BY title
+LIMIT 10;
+
+-- exemples:
+-- attach a db in connection : 
+-- sqlite> ATTACH DATABASE "c:\sqlite\db\chinook.db" AS chinook;
+
+
+-- open a database : << sqlite3 c:\sqlite\db\chinook.db >> 
+
+-- show all tables of a db : sqlite> .tables 
+
+-- show tables 'a....' of a db : sqlite> .table 'a%'
+
+-- list all tables of db : 
+
+--SELECT 
+    --name
+--FROM 
+    --sqlite_master 
+--WHERE 
+    --type ='table' AND 
+    --name NOT LIKE 'sqlite_%';
+
+
+
+
+

@@ -1,0 +1,11 @@
+"-1 Quelle fonction permet d'affichier à l'écran une phrase?","eeze",0,1.0
+"-2 Ecrire un code qui nous permet de savoir si un entier est pair ou non","z",0,1.0
+"-4 Ecrire une fonction qui affiche le plus petit entier d'une liste","zzzz",0,7.0
+"-3 Ecrire un code qui nous permet d'écrire une liste d'entiers incrémentés de deux","uugug",0,3.0
+0,13.0"-1 Quelle fonction permet d'affichier à l'écran une phrase?","a",0,1.0
+"-4 Ecrire une fonction qui affiche le plus petit entier d'une liste","a",0,0.0
+"-3 Ecrire un code qui nous permet d'écrire une liste d'entiers incrémentés de deux","a",0,0.0
+0,2.0"-3 Ecrire un code qui nous permet d'écrire une liste d'entiers incrémentés de deux","as",0,1.0
+"-4 Ecrire une fonction qui affiche le plus petit entier d'une liste","as",0,0.0
+"-1 Quelle fonction permet d'affichier à l'écran une phrase?","as",0,0.0
+0,2.0

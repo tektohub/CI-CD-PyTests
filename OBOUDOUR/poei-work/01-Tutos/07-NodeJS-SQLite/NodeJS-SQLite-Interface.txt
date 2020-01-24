@@ -1,0 +1,45 @@
+
+install module sql
+
+npm install sqlite3
+> package.json : à créer avant 
+
+
+import: 
+
+const sqlite3 = require('sqlite3').verbose();
+
+create a db object :
+let db = new sqlite3.Database(':memory:');
+
+connexion: 
+
+let db = new sqlite3.Database(':memory:', (err) => {
+  if (err) {
+    return console.error(err.message);
+  }
+  console.log('Connected to the in-memory SQlite database.');
+});
+
+close cnx: good practice :) 
+db.close();
+
+<<<<<<<
+db.close((err) => {
+  if (err) {
+    return console.error(err.message);
+  }
+  console.log('Close the database connection.');
+});
+
+db.close(
+	(err) => {
+  		if (err) {
+    			return console.error(err.message);
+  		}
+
+  	console.log('Close the database connection.');
+	}
+);
+>>>>>>>>
+

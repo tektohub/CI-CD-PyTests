@@ -1,0 +1,59 @@
+
+connect to db :
+in cmd line : 
+
+sqlite3 c:\sqlite\db\chinook.db
+
+
+-- from a connection: 
+
+sqlite> ATTACH DATABASE "c:\sqlite\db\chinook.db" AS chinook;
+
+
+Links: 
+
+1) Tutorial :
+
+https://www.sqlitetutorial.net
+
+2) ressources: 
+
+https://www.sqlitetutorial.net/sqlite-resources/
+
+3) TRYit : 
+https://www.sqlitetutorial.net/tryit/query/sqlite-autoincrement/#1
+
+4) commands: https://www.sqlitetutorial.net/sqlite-commands/
+
+
+>> à voir: 
+	https://www.sqlitetutorial.net/sqlite-autoincrement: attn 
+
+
+>>
+SQLite AUTOINCREMENT column attribute
+
+SQLite recommends that you should not use AUTOINCREMENT attribute because:
+
+    The AUTOINCREMENT keyword imposes extra CPU, memory, disk space, and disk I/O overhead and should be avoided if not strictly needed. It is usually not needed.
+
+In addition, the way SQLite assigns a value for the AUTOINCREMENT column slightly different from the way it does for the rowid column.
+
+When should you use the AUTOINCREMENT column attribute?
+
+The main purpose of using attribute AUTOINCREMENT is to prevent SQLite to reuse a value that has not been used or a value from the previously deleted row.
+
+If you don’t have any requirement like this, you should not use the AUTOINCREMENT attribute in the primary key.
+
+ref: https://www.sqlitetutorial.net/sqlite-autoincrement/
+
+
+
+>> 
+
+interfaces :
+
+Node JS : https://www.sqlitetutorial.net/sqlite-nodejs/
+
+
+
